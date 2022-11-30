@@ -1,3 +1,1 @@
-"#team13 website2" 
-
-../brief.md
+[./brief.md](https://github.com/team13eng1/team13eng1.github.io/blob/main/brief.md)
