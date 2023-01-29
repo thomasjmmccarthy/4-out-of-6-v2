@@ -9,6 +9,7 @@
 ## Version Control Repository
 
 - [./github.com](https://github.com/team13eng1/piazza-panic)
+- [./Gantt Charts](https://docs.google.com/document/d/1oxSF65FLftRZ5VzxUSBAj_ifcBLU4WiMHZfJrkjQ54s/edit?usp=sharing)
 
 ## Website
 
@@ -29,9 +30,9 @@
   7. [./Use-Case Diagram v1](https://docs.google.com/document/d/1k2hfI4rqjvvHnyrN7B47TRmqYa59kTHKync8VdqXUzQ/edit?usp=sharing)
   8. [./Use Case Diagram v2](https://docs.google.com/document/d/1QW9zsoVjw2Vt4r2JMbNrwcXZ1RFa8ZHj-NnjDLV7OlM/edit?usp=sharing)
   
-## Method Selection & Planning
+## Method Selection and Planning
 
-- []()
+- [./Method Selection and Planning](https://docs.google.com/document/d/1jqhXtscTEUJq8uYimeMQWQmvJeHCHwq9z6KpHBavZIo/edit?usp=sharing)
 
 ## Risk Assessment and Mitigation
 
