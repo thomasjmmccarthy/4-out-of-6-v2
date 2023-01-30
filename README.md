@@ -9,7 +9,6 @@
 ## Version Control Repository
 
 - [./github.com](https://github.com/team13eng1/piazza-panic)
-- [./Gantt Charts](https://docs.google.com/document/d/1oxSF65FLftRZ5VzxUSBAj_ifcBLU4WiMHZfJrkjQ54s/edit?usp=sharing)
 
 ## Website
 
@@ -17,7 +16,7 @@
 
 ## Requirements
 
-- []()
+- [./Requirements v2](https://docs.google.com/document/d/14xC_9AU1TNzVsYBPPQkQcOf7-p9uDgXz06P9n4omAoU/edit?usp=sharing)
 
 ## Architecture
 
@@ -30,10 +29,20 @@
   7. [./State Diagram v2](https://docs.google.com/document/d/1xAQJlsoyofYlBfASWHvA1YYBzkpXP0AQbQ6klGliPl8/edit?usp=sharing)
   8. [./Use-Case Diagram v1](https://docs.google.com/document/d/1k2hfI4rqjvvHnyrN7B47TRmqYa59kTHKync8VdqXUzQ/edit?usp=sharing)
   9. [./Use Case Diagram v2](https://docs.google.com/document/d/1QW9zsoVjw2Vt4r2JMbNrwcXZ1RFa8ZHj-NnjDLV7OlM/edit?usp=sharing)
+  10.[./Component Diagram v1](https://docs.google.com/document/d/13j2cNZYQoJQnB7nHC7kAAF9Ob0nHZFDUtkbJsPsQWik/edit?usp=sharing)
+  11.[./Component Diagram v2](https://docs.google.com/document/d/1xgLKYW41srZMSyw5mRAz1mx102CQ5vdNMA0-3lvsDIY/edit?usp=sharing)
+  12.[./All Attributes in chef](https://docs.google.com/document/d/1FBTngQv7T7KY_4j9x_pTy1yngidrDIsmaPiW6pVCUXk/edit?usp=sharing)
+  13.[./All Attributes in playScreen](https://docs.google.com/document/d/1sTHRd5pYrgpxtjdfhZxpuaB2bizUopMTt5Jq8L75mWM/edit?usp=sharing)
+  14.[./Chef Class Diagram](https://docs.google.com/document/d/1Lrw2ksu2FK23QApVQ3dru9zBOlh5GfvUqUqLIv3UHbw/edit?usp=sharing)
+  15.[./Order Class Diagram](https://docs.google.com/document/d/1vvNBntwySPT_aYOtK_VxDSsztHHCdIhBaZAvcHR2tbU/edit?usp=sharing)
+  16.[./Ingredients Class Diagram](https://docs.google.com/document/d/1UOwp8ILGWlg-nqdqM0aDKsDIxKNqZpE1zUJpEXCPk6g/edit?usp=sharing)
+  17.[./HUD Class Diagram](https://docs.google.com/document/d/11Pp8EwMUzGXJEzJnh0jWJmk5QLYgO8yEh_cgg7m3ZGo/edit?usp=sharing)
+  18.[./Sprites Class Diagram](https://docs.google.com/document/d/1Ynn_iEfwpWjDQFIO_OjvTZLLb8dy5Q4bF_hTmmgdSoQ/edit?usp=sharing)
   
 ## Method Selection and Planning
 
 - [./Method Selection and Planning](https://docs.google.com/document/d/1jqhXtscTEUJq8uYimeMQWQmvJeHCHwq9z6KpHBavZIo/edit?usp=sharing)
+- [./Gantt Charts](https://docs.google.com/document/d/1oxSF65FLftRZ5VzxUSBAj_ifcBLU4WiMHZfJrkjQ54s/edit?usp=sharing)
 
 ## Risk Assessment and Mitigation
 
