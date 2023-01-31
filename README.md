@@ -63,7 +63,7 @@
 </p>
 <h3 align="center">Risk Assessment and Mitigation</h3>
 <p align="center">
-  <a href="https://docs.google.com/document/d/1oxSF65FLftRZ5VzxUSBAj_ifcBLU4WiMHZfJrkjQ54s/edit?usp=sharing"><strong>./Risk Assessment and Mitigation </strong></a>
+  <a href="https://docs.google.com/document/d/1xlEz7QoRmU9JRiZa8yUuLzIXuAkvfapzsGt_050kH_8/edit?usp=sharing"><strong>./Risk Assessment and Mitigation </strong></a>
 </p>
 <h3 align="center">Implementation</h3>
 <p align="center">
