@@ -43,14 +43,14 @@
 </p>
 <h3 align="center">Week 10 (1)</h3>
 <p align="center">
-  <img src="../../assets/week10pt1.png">
+  <img src="../../assets/week10p1.png">
 </p>
 <h3 align="center">Week 10 (2)</h3>
 <p align="center">
-  <img src="../../assets/week10pt2.png">
+  <img src="../../assets/week10p2.png">
 </p>
 <h3 align="center">Week 10 (3)</h3>
 <p align="center">
-  <img src="../../assets/week10pt3.png">
+  <img src="../../assets/week10p3.png">
 </p>
 
