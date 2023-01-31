@@ -17,26 +17,26 @@
 
 
 
-# Information Documents
+<h3 align="center">Information Documents</h3>
 
 - [./brief.md](https://github.com/team13eng1/team13eng1.github.io/blob/main/brief.md)
 - [./assessment.pdf](https://github.com/team13eng1/team13eng1.github.io/blob/main/eng1-team-assessment-1.pdf)
 
-# Assessment Files
+<h1 align="center">Assessment Files</h3>
 
-## Version Control Repository
+<h3 align="center">Version Control Repository</h3>
 
 - [./github.com](https://github.com/team13eng1/piazza-panic)
 
-## Website
+<h3 align="center">Website</h3>
 
 - [./this](https://team13eng1.github.io/)
 
-## Requirements
+<h3 align="center">Requirements</h3>
 
 - [./Requirements v2](https://docs.google.com/document/d/14xC_9AU1TNzVsYBPPQkQcOf7-p9uDgXz06P9n4omAoU/edit?usp=sharing)
 
-## Architecture
+<h3 align="center">Architecture</h3>
 
 - [./Architecture v2](https://docs.google.com/document/d/1C37P7E7QMpQ2_upDEav_5IaYZI2txGHKGNSV95MEUmg/edit?usp=sharing)
 - [./Sequence Diagram v1](https://docs.google.com/document/d/1VKIFojElkkcRvPWXEcVTYmcR-0OjmI47wZAIR_i_evo/edit?usp=sharing) [./Sequence Diagram v2](https://docs.google.com/document/d/1sPu1VbSBOMXK2TqgbtHi6kGX__3sMv_zsV_rjNoXPEY/edit?usp=sharing) [./Sequence Diagram v3](https://docs.google.com/document/d/1mqmxBh0yFlnhPykM4uecN6lWyX5X7-X4usfZxWY9UR8/edit?usp=sharing)
@@ -50,16 +50,16 @@
 - [./HUD Class Diagram](https://docs.google.com/document/d/11Pp8EwMUzGXJEzJnh0jWJmk5QLYgO8yEh_cgg7m3ZGo/edit?usp=sharing)
 - [./Sprites Class Diagram](https://docs.google.com/document/d/1Ynn_iEfwpWjDQFIO_OjvTZLLb8dy5Q4bF_hTmmgdSoQ/edit?usp=sharing)
   
-## Method Selection and Planning
+<h3 align="center">Method Selection and Planning</h3>
 
 - [./Method Selection and Planning](https://docs.google.com/document/d/1jqhXtscTEUJq8uYimeMQWQmvJeHCHwq9z6KpHBavZIo/edit?usp=sharing)
 - [./Gantt Charts](https://docs.google.com/document/d/1oxSF65FLftRZ5VzxUSBAj_ifcBLU4WiMHZfJrkjQ54s/edit?usp=sharing)
 
-## Risk Assessment and Mitigation
+<h3 align="center">Risk Assessment and Mitigation</h3>
 
 - []()
 
-## Implementation
+<h3 align="center">Implementation</h3>
 
 - []()
 - [./Implementation Part B](https://docs.google.com/document/d/1m3DnzsrjSQlo6o5WrNfFBIGUawQ1ybuUbZkpYbwl9f4/edit?usp=sharing)
