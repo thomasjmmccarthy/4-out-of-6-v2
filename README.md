@@ -89,5 +89,5 @@
   •
   <a href="./files/assessment/piazza-panic-main (1).zip" download><strong> Implementation Part A </strong></a>
   •
-  <a href=".files/assessment/Implementation Part B.pdf"><strong> Implementation Part B </strong></a>
+  <a href="./files/assessment/Implementation Part B.pdf"><strong> Implementation Part B </strong></a>
 </p>
