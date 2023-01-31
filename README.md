@@ -22,7 +22,7 @@
   <a href="https://github.com/team13eng1/team13eng1.github.io/blob/main/brief.md"><strong>./brief.md </strong></a>
   <a href="https://github.com/team13eng1/team13eng1.github.io/blob/main/eng1-team-assessment-1.pdf"><strong>./assessment.pdf </strong></a>
 </p>
-<h1 align="center">Assessment Files</h3>
+<h1 align="center">Assessment Files</h1>
 
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
