@@ -81,7 +81,7 @@
 </p>
 <h3 align="center">Risk Assessment and Mitigation</h3>
 <p align="center">
-  <a href="./files/assessment/Risk Assessment and Mitigation.pdf"><strong> Risk Assessment and Mitigation </strong></a>
+  <a href="./files/assessment/Risk Assessment and Mitigation v2.pdf"><strong> Risk Assessment and Mitigation </strong></a>
 </p>
 <h3 align="center">Implementation</h3>
 <p align="center">
