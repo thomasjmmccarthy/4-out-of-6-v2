@@ -59,7 +59,7 @@
 <h3 align="center">Method Selection and Planning</h3>
 <p align="center">
   <a href="./files/assessment/Method Selection and Planning.pdf"><strong>./Method Selection and Planning </strong></a>
-  <a href="gantt.md"><strong>./Gantt Charts </strong></a>
+  <a href="GANTT.md"><strong>./Gantt Charts </strong></a>
 </p>
 <h3 align="center">Risk Assessment and Mitigation</h3>
 <p align="center">
