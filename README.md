@@ -27,15 +27,15 @@
 
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
-  <a href="https://github.com/team13eng1/piazza-panic"><strong> github.com </strong></a>
+  <a href="https://github.com/team13eng1/piazza-panic"><strong>github.com</strong></a>
 <p>
 <h3 align="center">Website</h3>
 <p align="center">
-  <a href="https://team13eng1.github.io/"><strong> this </strong></a>
+  <a href="https://team13eng1.github.io/"><strong>this</strong></a>
 </p>
 <h3 align="center">Requirements</h3>
 <p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong> Requirements v2 </strong></a>
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
 </p>
 <h3 align="center">Architecture</h3>
 <p align="center">
@@ -81,7 +81,7 @@
 </p>
 <h3 align="center">Risk Assessment and Mitigation</h3>
 <p align="center">
-  <a href="./files/assessment/Risk Assessment and Mitigation v2.pdf"><strong> Risk Assessment and Mitigation </strong></a>
+  <a href="./files/assessment/Risk Assessment and Mitigation v2.pdf"><strong>Risk Assessment and Mitigation</strong></a>
 </p>
 <h3 align="center">Implementation</h3>
 <p align="center">
