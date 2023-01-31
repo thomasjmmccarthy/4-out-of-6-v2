@@ -1,6 +1,6 @@
 <div align="center">
   <a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/team13eng1/piazza-panic/)">
-    <img src="./Capture.png" alt="Logo" width="80" height="80">
+    <img src="./Capture.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Piazza Panic</h3>
