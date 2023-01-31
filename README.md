@@ -3,7 +3,7 @@
     <img src="./Capture.PNG" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Piazza Panic</h3>
+  <h1 align="center">Piazza Panic</h1>
 
   <p align="center">
     A LibGDX game for ENG1
