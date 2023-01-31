@@ -1,3 +1,21 @@
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="Capture.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Piazza Panic</h3>
+
+  <p align="center">
+    A LibGDX game for ENG1
+    <br />
+    <a href="https://github.com/team13eng1/piazza-panic"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://team13eng1.github.io/">View Website</a>
+  </p>
+</div>
+
+
 
 # Information Documents
 
