@@ -39,7 +39,7 @@
 </p>
 <h3 align="center">Architecture</h3>
 <p align="center">
-  <a href="./files/assessment/Architecture v2.pdf"><strong> Architecture v2 </strong></a>
+  <a href="./files/assessment/Architecture V2.pdf"><strong> Architecture v2 </strong></a>
   •
   <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Sequence Diagram v1 </strong></a>
   •
